@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "algotradingapi",
+  "private_key_id": "6e69861f730053fb82e2226289cce2cbafac8263",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6cOw7BXwSIN6p\nJVSMS/1n4tYQfKlc6JBQxClkRMjt75nORRwUnkJwwwQhAwDxo4l5uoJ6qKvZ3CtN\nw1CP3XP1pgKc6VtDH32TJYlT24C4nhpYeIN4WCJTKFmBtejJFlJWRkHPKDe3o2vf\n4wJ4IPg68jmDWstvIG0Sa4n7+ELCdxI/og4F6sxzAh7zXv5wUitWqFNWa22K1gnd\ndNi2eh0E4npgV2KvS11fauH6k0VRSPU7mjnmXihGybjRxWdFBqTeY7P14hAC75wR\nkLI6VlutG2GAkyxXgy9I4j2+3oOF/LG8CezvV88+FNzccT+kNpSaNkopJNvTxAMg\nm5sLiviFAgMBAAECggEAOl8Zbt8oOarF25I+9s/hzjE0USQeiGKdsFPCG8z3VZtS\n/cQgZwonhhNgiw9cL8tCQvTUXh/J8iMfAbE5W1l7sTihD8x10L2evL+fT7xlACgr\n2nAcxURetsdmwpgYAkE1VSKY/wk57IpDP2zc/Ixh+16UCB6Ym7m8vGwj3toa2LQT\nFzOy4nuybJD22DN0fTfx5JOCfx1GzngSnInaZnGsTmeR/uajtfKc9oq5yesWr8EA\nnIMzleiEvhxX7TfJGRg5m43Bz/okFzPNQP8iAAFhEoRj7pgJElKu5ouWZg+GiSMM\naJPAiaa/rOb2DMty3eqvLa6GYCZnThD6t0H4I8btTwKBgQDdzjeJBMAaeQCyvNoa\nolKLhGIwDTk3Mu09sgo1TKWj244OXsIx8DwzhPUXZxuGuP36AzLwI4gIlio2g7ej\no6PItNakf30t4FHTEPJXOe8pRepr3esxc1mza8CW/+1mql6HmDB9bHsate1oLaop\nY/JI0sdS5Zbyv1xVmUfAPY5U+wKBgQDXLwMmeUcH1j4w2o6Wh26Ydb/G6g2Gpt/7\nWsDFW7433ucI97yyLUqtf2kBRXwQ+r/Lb1o+IBW3AP1ba8UvJgbLBbUkmd8orF8I\n8OSvkN1C75EMWvj7YS4ahnHOwAQJ13MZ60D1UsYhjM5hTa9quaTrX9tcg94RDHdj\ndwMdMHNwfwKBgQDdicUqU9ZUGpu56qqlg4+Szk0L1YlaOsF+p79OcRnYScjfTYIF\nQv++LYRnNZLmwwrZlixgcfzDJslO3cyj4yQJqaXhc3ziP3U6rWh/+tuHi8+SoXry\nT1Y+wNcBeunxayUzpax4+csTaLaRIVseMDekyPJROAPGvZ9J1+k0d8cb1QKBgDM+\nb9qesQqtu5u4wJIaaH0INYZyQIxbeyWJpDSbt33oqE5baOVpocoVeHUkDfqhLEGP\nIAeBboppQuydipTC0oVQs6Wmux0dh3hCncMtlXOWR42QsJB0wRzx/XJGCfAqDbAT\ndSG295YPySok7OxWj266Iiwy/xRCSsA2HFi8LBGTAoGAC0GtDYF/sE35lyz8ubpv\nb3QpTHEZLNrVfvA01X3zDkWuljO3ngugBmM8386Macrj4OUCtwFKWa0joYFjmMej\nJBSCQ16MkFj7uHHDtCafOeytQJ7EVrH9iaDlRY7XLtNbXgoIJ2YZFmwEu+UKhkqk\n6vA3i1YU0Ctg7rwLmzoCIeU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "trading-bot-access@algotradingapi.iam.gserviceaccount.com",
+  "client_id": "109703656976190329514",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trading-bot-access%40algotradingapi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
